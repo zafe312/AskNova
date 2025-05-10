@@ -1,0 +1,7 @@
+fastapi 
+uvicorn
+openai
+requests 
+textblob 
+python-dotenv
+groq
