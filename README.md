@@ -1,0 +1,2 @@
+# AskNova
+A google summarizer
